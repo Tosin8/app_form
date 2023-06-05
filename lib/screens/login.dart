@@ -14,7 +14,7 @@ class LogIn extends StatelessWidget {
           decoration: const BoxDecoration(
               image: DecorationImage(
                   image: AssetImage(
-                    'assets/img/bkg.',
+                    'assets/img/bkg.png',
                   ),
                   fit: BoxFit.cover)),
         ),
